@@ -1,2 +1,0 @@
-# configServer
-Config server
